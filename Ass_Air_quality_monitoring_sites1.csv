@@ -1,0 +1,240 @@
+id,objectid,siteid,sitename,sitetype,latitude,longitude,url,dataowner,sitemanager,pollutant_no2,pollutant_pm10,pollutant_o3,pollutant_so2,pollutant_pm25,pollutant_co,easting,northing,classification,ozonepod
+1,1,CAH,City Aviation House,TEOM,51.5028,0.0521,https://lcy.aqconsultants.co.uk/index.php/cah,,,,,,,,,542525.28,180203.1672,Airport,
+2,2,KGV,King George V,FIDAS analyser,51.5028,0.058193,https://lcy.aqconsultants.co.uk/index.php/kgv,,,,,,,,,542948.1358,180215.0411,Airport,
+3,3,2450071,"Beaumont Grove, Tower Hamlets",FIDAS analyser,51.521018,-0.046673,https://www.breathelondon.org/,,,,,,,,,535618.1238,182041.5845,Breathe London,No
+4,4,ND,Newham Dockside,Ground level monitor,51.5074,0.049,https://lcy.aqconsultants.co.uk/index.php/nd,,,,,,,,,542295.8054,180708.6564,Airport,
+5,5,2450001,"Dollis Road, Barnet",Ground level monitor,51.60448,-0.20649,https://www.breathelondon.org/,,,,,,,,,524303.288,191039.1604,Breathe London,No
+6,6,2450002,"Hertford Road, Enfield",Ground level monitor,51.67382,-0.038307,https://www.breathelondon.org/,,,,,,,,,535742.4725,199049.2482,Breathe London,No
+7,7,2450003,"Savernake Road, Camden",Ground level monitor,51.55548,-0.1523385,https://www.breathelondon.org/,,,,,,,,,528190.8696,185683.5177,Breathe London,No
+8,8,2450005,"Garrett Lane, Wandsworth",Ground level monitor,51.438511,-0.187631,https://www.breathelondon.org/,,,,,,,,,526066.3537,172614.874,Breathe London,No
+9,9,2450006,"Hanworth Road, Hounslow",Ground level monitor,51.46863,-0.35977,https://www.breathelondon.org/,,,,,,,,,514027.4977,175682.3716,Breathe London,No
+10,10,2450007,"Greenwich Church Street, Greenwich",Ground level monitor,51.4813,-0.00986,https://www.breathelondon.org/,,,,,,,,,538292.0693,177693.6982,Breathe London,No
+11,11,2450008,"Geraldine Street, Southwark",Ground level monitor,51.496114,-0.10559,https://www.breathelondon.org/,,,,,,,,,531602.4978,179164.7183,Breathe London,No
+12,12,2450009,"Whitehall, Westminster",Ground level monitor,51.504589,-0.126199,https://www.breathelondon.org/,,,,,,,,,530147.8536,180070.3456,Breathe London,No
+13,13,2450011,"Cadogan Gardens, Kensington and Chelsea",Ground level monitor,51.493221,-0.158802,https://www.breathelondon.org/,,,,,,,,,527917.0158,178748.7595,Breathe London,No
+14,14,2450012,"Pattison Road, Barnet",Ground level monitor,51.56087,-0.1958,https://www.breathelondon.org/,,,,,,,,,525163.2234,186207.6996,Breathe London,No
+15,15,2450013,"Hunslett Street, Tower Hamlets",Ground level monitor,51.5293,-0.04873,https://www.breathelondon.org/,,,,,,,,,535450.8608,182958.7568,Breathe London,No
+16,16,2450014,"Shaftsbury Avenue, Westminster",Ground level monitor,51.51205,-0.131961,https://www.breathelondon.org/,,,,,,,,,529726.7967,180889.8131,Breathe London,No
+17,17,2450015,"Caledonian Road, Islington",Ground level monitor,51.55006,-0.118036,https://www.breathelondon.org/,,,,,,,,,530584.3015,185141.4203,Breathe London,No
+18,18,2450016,"Kensington Church Walk, Kensington and Chelsea",Ground level monitor,51.501917,-0.192524,https://www.breathelondon.org/,,,,,,,,,525552.2511,179657.4535,Breathe London,No
+19,19,2450017,"Clifford Street, Westminster",Ground level monitor,51.51097,-0.14197,https://www.breathelondon.org/,,,,,,,,,529035.339,180752.0332,Breathe London,No
+20,20,2450018,"London Road, Kingston",Ground level monitor,51.410746,-0.296663,https://www.breathelondon.org/,,,,,,,,,518560.3036,169345.4657,Breathe London,No
+21,21,2450019,"Mansford Street, Tower Hamlets",Ground level monitor,51.5288,-0.0622,https://www.breathelondon.org/,,,,,,,,,534518.0372,182878.3239,Breathe London,No
+22,22,2450020,"Albert Street, Camden",Ground level monitor,51.53624,-0.143518,https://www.breathelondon.org/,,,,,,,,,528856.6271,183559.4303,Breathe London,No
+23,23,2450021,"Wood Lane, Barking & Dagenham",Ground level monitor,51.5613346,0.1486006,https://www.breathelondon.org/,,,,,,,,,549033.116,186904.5026,Breathe London,No
+24,24,2450022,"Blackfriars Road, Southwark",Ground level monitor,51.505489,-0.104307,https://www.breathelondon.org/,,,,,,,,,531664.5528,180209.5517,Breathe London,No
+25,25,2450023,"High Road, Barnet",Ground level monitor,51.587679,-0.16455,https://www.breathelondon.org/,,,,,,,,,527254.4631,189242.8945,Breathe London,No
+26,26,2450024,"Farringdon Street, City of London",Ground level monitor,51.514691,-0.104505,https://www.breathelondon.org/,,,,,,,,,531624.3087,181232.487,Breathe London,No
+27,27,2450025,"Laystall St, Camden",Ground level monitor,51.52254,-0.11207,https://www.breathelondon.org/,,,,,,,,,531076.9002,182091.754,Breathe London,No
+28,28,2450026,"Larkshall Road, Waltham Forest",Ground level monitor,51.618933,-0.000281,https://www.breathelondon.org/,,,,,,,,,538538.7244,193016.9219,Breathe London,No
+29,29,2450027,"St Anns Hill, Wandsworth",Ground level monitor,51.456195,-0.1893,https://www.breathelondon.org/,,,,,,,,,525901.7474,174578.5239,Breathe London,No
+30,30,2450028,"Markfield Road, Haringey",Ground level monitor,51.584037,-0.064352,https://www.breathelondon.org/,,,,,,,,,534206.2006,189016.9109,Breathe London,No
+31,31,2450029,"Crowthorne Road, Kensington & Chelsea",Ground level monitor,51.516572,-0.218495,https://www.breathelondon.org/,,,,,,,,,523710.0851,181242.9685,Breathe London,No
+32,32,2450030,"Stockwell Road, Lambeth",Ground level monitor,51.46670603,-0.117473459,https://www.breathelondon.org/,,,,,,,,,530861.7263,175873.1884,Breathe London,No
+33,33,2450031,"Tower Bridge Road, Southwark",Ground level monitor,51.50195,-0.07756,https://www.breathelondon.org/,,,,,,,,,533531.0726,179864.4222,Breathe London,No
+34,34,2450032,"Southbury Road, Enfield",Ground level monitor,51.649072,-0.054991,https://www.breathelondon.org/,,,,,,,,,534662.2179,196266.2882,Breathe London,No
+35,35,2450033,"Churchill Gardens Road, Westminster",Ground level monitor,51.486369,-0.145127,https://www.breathelondon.org/,,,,,,,,,528885.5994,178010.7587,Breathe London,No
+36,36,2450034,"Haimo Road, Greenwich",Ground level monitor,51.45525,0.04062,https://www.breathelondon.org/,,,,,,,,,541877.8056,174893.4197,Breathe London,No
+37,37,2450035,"Triangle Adventure Playground, Lambeth",Ground level monitor,51.482098,-0.116235,https://www.breathelondon.org/,,,,,,,,,530903.7111,177587.0289,Breathe London,No
+38,38,2450036,"Black Horse Court, Southwark",Ground level monitor,51.496506,-0.088182,https://www.breathelondon.org/,,,,,,,,,532809.6851,179239.7252,Breathe London,No
+39,39,2450037,"Station Parade, Barking & Dagenham",Ground level monitor,51.539202,0.081105,https://www.breathelondon.org/,,,,,,,,,544424.968,184308.0386,Breathe London,No
+40,40,2450038,"Chigwell Road, Redbridge",Ground level monitor,51.595283,0.038246,https://www.breathelondon.org/,,,,,,,,,541279.0719,190460.6709,Breathe London,No
+41,41,2450039,"Galaisher Street, Greenwich",Ground level monitor,51.4831,-0.0188,https://www.breathelondon.org/,,,,,,,,,537665.9139,177877.0248,Breathe London,No
+42,42,2450040,"Queen Margarets Grove, Islington",Ground level monitor,51.549209,-0.07976,https://www.breathelondon.org/,,,,,,,,,533240.4643,185115.7582,Breathe London,No
+43,43,2450041,"Fulham Palace Road, Hammersmith & Fulham",Ground level monitor,51.48638,-0.220929,https://www.breathelondon.org/,,,,,,,,,523622.813,177881.3707,Breathe London,No
+44,44,2450042,"Romford Road, Newham",Ground level monitor,51.554629,0.059361,https://www.breathelondon.org/,,,,,,,,,542868.8293,185980.8668,Breathe London,No
+45,45,2450043,"Durham Street, Lambeth",Ground level monitor,51.485632,-0.119157,https://www.breathelondon.org/,,,,,,,,,530690.7301,177974.8039,Breathe London,No
+46,46,2450044,"St Bartholomews Hospital, City of London",Ground level monitor,51.518902,-0.100879,https://www.breathelondon.org/,,,,,,,,,531863.7421,181707.2864,Breathe London,No
+47,47,2450045,"Ladbroke Grove, Kensington & Chelsea",Ground level monitor,51.510793,-0.20528,https://www.breathelondon.org/,,,,,,,,,524642.7282,180622.72,Breathe London,No
+48,48,2450046,"Exhibition Road, Kensington & Chelsea",Ground level monitor,51.49562,-0.173608,https://www.breathelondon.org/,,,,,,,,,526882.57,178989.791,Breathe London,No
+49,49,2450047,"Whitecross, Islington",Ground level monitor,51.52148,-0.09265,https://www.breathelondon.org/,,,,,,,,,532427.1766,182008.8168,Breathe London,No
+50,50,2450048,"Peckham Road, Southwark",Ground level monitor,51.474307,-0.078218,https://www.breathelondon.org/,,,,,,,,,533566.1017,176789.2556,Breathe London,No
+51,51,2450049,"Marylebone, Westminster",Ground level monitor,51.52271,-0.17403,https://www.breathelondon.org/,,,,,,,,,526778.1184,182001.5793,Breathe London,No
+52,52,2450050,"Richmond Road, Richmond",Ground level monitor,51.44781,-0.32603,https://www.breathelondon.org/,,,,,,,,,516423.8558,173420.104,Breathe London,No
+53,53,2450051,"Lancell Street, Hackney",Ground level monitor,51.5618,-0.07587,https://www.breathelondon.org/,,,,,,,,,533473.3268,186523.0088,Breathe London,No
+54,54,2450052,"Dagnall Street, Wandsworth",Ground level monitor,51.4738,-0.157493,https://www.breathelondon.org/,,,,,,,,,528062.2335,176591.364,Breathe London,No
+55,55,2450053,"Devas Street, Tower Hamlets",Ground level monitor,51.522982,-0.012692,https://www.breathelondon.org/,,,,,,,,,537969.577,182323.4635,Breathe London,No
+56,56,2450054,"Holloway Bus Garage, Islington",Ground level monitor,51.561932,-0.13295,https://www.breathelondon.org/,,,,,,,,,529516.6074,186435.1397,Breathe London,No
+57,57,2450055,"Upper Richmond Road, Richmond",Ground level monitor,51.465116,-0.254736,https://www.breathelondon.org/,,,,,,,,,521332.0162,175460.2223,Breathe London,No
+58,58,2450056,"The Vale, Ealing",Ground level monitor,51.506677,-0.262778,https://www.breathelondon.org/,,,,,,,,,520663.7496,180068.728,Breathe London,No
+59,59,2450057,"Lollard Street, Lambeth",Ground level monitor,51.492724,-0.11393,https://www.breathelondon.org/,,,,,,,,,531033.3129,178772.7911,Breathe London,No
+60,60,2450058,"Brampton Road, Bexley",Ground level monitor,51.481217,0.126775,https://www.breathelondon.org/,,,,,,,,,547779.3374,177951.2209,Breathe London,No
+61,61,2450059,"Drury Lane, Westminster",Ground level monitor,51.513471,-0.119305,https://www.breathelondon.org/,,,,,,,,,530600.9121,181070.3248,Breathe London,No
+62,62,2450060,"Camberwell Road, Southwark",Ground level monitor,51.475714,-0.093568,https://www.breathelondon.org/,,,,,,,,,532496.0449,176917.8509,Breathe London,No
+63,63,2450061,"High Road, Brent",Ground level monitor,51.552002,-0.299682,https://www.breathelondon.org/,,,,,,,,,517985.5737,185049.0069,Breathe London,No
+64,64,2450062,"Hendon Way, Barnet",Ground level monitor,51.571675,-0.210083,https://www.breathelondon.org/,,,,,,,,,524143.7946,187384.95,Breathe London,No
+65,65,2450063,"Oakdale Road, Redbridge",Ground level monitor,51.592492,0.033275,https://www.breathelondon.org/,,,,,,,,,540943.4138,190140.7158,Breathe London,No
+66,66,2450064,"Morpeth Street, Tower Hamlets",Ground level monitor,51.52759,-0.047335,https://www.breathelondon.org/,,,,,,,,,535552.6947,182771.1818,Breathe London,No
+67,67,2450065,"Edgeware Road, Westminster",Ground level monitor,51.514193,-0.161979,https://www.breathelondon.org/,,,,,,,,,527637.9129,181075.3843,Breathe London,No
+68,68,2450066,"Columbia Road, Tower Hamlets",Ground level monitor,51.52858,-0.07414,https://www.breathelondon.org/,,,,,,,,,533690.4972,182831.992,Breathe London,No
+69,69,2450067,"Wyndham Road, Ealing",Ground level monitor,51.500816,-0.320162,https://www.breathelondon.org/,,,,,,,,,516696.3889,179323.9935,Breathe London,No
+70,70,2450068,"Blomfontein Road, Hammersmith & Fulham",Ground level monitor,51.514063,-0.235371,https://www.breathelondon.org/,,,,,,,,,522545.9198,180935.5867,Breathe London,No
+71,71,2450069,"Devonshire Street, Hounslow",Ground level monitor,51.488213,-0.255705,https://www.breathelondon.org/,,,,,,,,,521203.524,178027.1125,Breathe London,No
+72,72,2450070,"St James, New Cross, Lewisham",Ground level monitor,51.474136,-0.03854,https://www.breathelondon.org/,,,,,,,,,536322.0458,176843.3078,Breathe London,No
+73,73,2450072,"Marylebone, Westminster",Ground level monitor,51.523036,-0.174732,https://www.breathelondon.org/,,,,,,,,,526728.5147,182036.617,Breathe London,No
+74,74,2450072,"Fitzjohns Avenue, Camden",Ground level monitor,51.551281,-0.175929,https://www.breathelondon.org/,,,,,,,,,526567.1638,185175.5204,Breathe London,No
+75,75,2450073,"Kew Road, Richmond",Ground level monitor,51.463931,-0.301629,https://www.breathelondon.org/,,,,,,,,,518077.8484,175251.8659,Breathe London,No
+76,76,2450074,"Greenhill Way, Harrow",Ground level monitor,51.58092,-0.341545,https://www.breathelondon.org/,,,,,,,,,515010.3277,188198.2681,Breathe London,No
+77,77,2450075,"Robin Hood Health Centre, Sutton",Ground level monitor,51.362846,-0.196948,https://www.breathelondon.org/,,,,,,,,,525625.7921,164184.7552,Breathe London,No
+78,78,2450076,"Roehampton Lane, Wandsworth",Ground level monitor,51.45505,-0.243373,https://www.breathelondon.org/,,,,,,,,,522148.1439,174359.7113,Breathe London,No
+79,79,2450077,"Cornwall Road, Lambeth",Ground level monitor,51.506645,-0.112072,https://www.breathelondon.org/,,,,,,,,,531122.3617,180324.1737,Breathe London,No
+80,80,2450078,"Cecilia Road, Hackney",Ground level monitor,51.54989,-0.06836,https://www.breathelondon.org/,,,,,,,,,534028.8395,185212.2988,Breathe London,No
+81,81,2450079,"Brook Drive, Southwark",Ground level monitor,51.4936,-0.10169,https://www.breathelondon.org/,,,,,,,,,531880.4551,178892.1675,Breathe London,No
+82,82,2450080,"Ballance Road, Hackney",Ground level monitor,51.545601,-0.036141,https://www.breathelondon.org/,,,,,,,,,536275.3857,184794.8332,Breathe London,No
+83,83,2450081,"Bonington Road, Havering",Ground level monitor,51.544394,0.211865,https://www.breathelondon.org/,,,,,,,,,553474.9603,185151.4658,Breathe London,No
+84,84,2450082,"Haverstock Hill, Camden",Ground level monitor,51.549012,-0.162351,https://www.breathelondon.org/,,,,,,,,,527514.8501,184946.7594,Breathe London,No
+85,85,2450083,"Richmond Road, Hackney",Ground level monitor,51.543368,-0.057899,https://www.breathelondon.org/,,,,,,,,,534773.3573,184506.2376,Breathe London,No
+86,86,2450084,"Cowcross Street, Islington",Ground level monitor,51.520107,-0.103412,https://www.breathelondon.org/,,,,,,,,,531684.5358,181836.7286,Breathe London,No
+87,87,2450085,"Bank Junction, City of London",Ground level monitor,51.513224,-0.088817,https://www.breathelondon.org/,,,,,,,,,532717.0631,181097.6628,Breathe London,No
+88,88,2450086,"Commercial Street, Tower Hamlets",Ground level monitor,51.518126,-0.074304,https://www.breathelondon.org/,,,,,,,,,533709.7167,181669.1773,Breathe London,No
+89,89,2450087,"Haseltine Road, Lewisham",Ground level monitor,51.42796,-0.036516,https://www.breathelondon.org/,,,,,,,,,536600.2561,171712.2514,Breathe London,No
+90,90,2450088,"London Wall, City of London",Ground level monitor,51.516749,-0.085346,https://www.breathelondon.org/,,,,,,,,,532947.646,181495.9486,Breathe London,No
+91,91,2450089,"Park Lane, Westminster",Ground level monitor,51.50801,-0.153386,https://www.breathelondon.org/,,,,,,,,,528251.4883,180402.8205,Breathe London,No
+92,92,2450090,"Larkshall Road, Waltham Forest",Ground level monitor,51.618948,-0.000408,https://www.breathelondon.org/,,,,,,,,,538529.8872,193018.3494,Breathe London,No
+93,93,2450091,"Holloway Road, Islington",Ground level monitor,51.555392,-0.116221,https://www.breathelondon.org/,,,,,,,,,530694.8647,185737.5994,Breathe London,Yes
+94,94,2450092,"High Street, Hillingdon",Ground level monitor,51.39902,-0.07534,https://www.breathelondon.org/,,,,,,,,,533985.9149,168422.4807,Breathe London,Yes
+95,95,2450093,"Broomhill Road, Bromley",Ground level monitor,51.379363,0.100738,https://www.breathelondon.org/,,,,,,,,,546296.2957,166572.9913,Breathe London,Yes
+96,96,2450093,"High Road, Croydon",Ground level monitor,51.39902,-0.075349,https://www.breathelondon.org/,,,,,,,,,533985.2889,168422.4643,Breathe London,Yes
+97,97,2450094,"Ealing Broadway, Ealing",Ground level monitor,51.574238,-0.413583,https://www.breathelondon.org/,,,,,,,,,510035.2609,187344.4288,Breathe London,Yes
+98,98,2450095,"Parkside, Merton",Ground level monitor,51.42644,-0.222691,https://www.breathelondon.org/,,,,,,,,,523662.2255,171212.8404,Breathe London,Yes
+99,99,2450096,"Rosebery Avenue, Islington",Ground level monitor,51.528436,-0.10692,https://www.breathelondon.org/,,,,,,,,,531417.2028,182756.6398,Breathe London,Yes
+100,100,2450097,"Woodman Road, Croydon",Ground level monitor,51.4579,0.135324,https://www.breathelondon.org/,,,,,,,,,548448.5334,175375.6781,Breathe London,Yes
+101,101,2450099,"Finchley Road, Camden",Ground level monitor,51.5441,-0.1751,https://www.breathelondon.org/,,,,,,,,,526644.5597,184378.3925,Breathe London,Yes
+102,102,2450100,"National Physical Laboratory, Richmond",Ground level monitor,51.426605,-0.345043,https://www.breathelondon.org/,,,,,,,,,515155.9545,171031.9813,Breathe London,Yes
+103,103,2450128,"Borough High Street, Southwark",Ground level monitor,51.506213,-0.088626,https://www.breathelondon.org/,,,,,,,,,532750.6778,180318.3655,Breathe London,No
+104,104,2450130,"Wandsworth Road, Lambeth",Ground level monitor,51.4757,-0.131253,https://www.breathelondon.org/,,,,,,,,,529879.1157,176848.8296,Breathe London,No
+105,105,2450131,"Whitehall, Westminster",Ground level monitor,51.504589,-0.126199,https://www.breathelondon.org/,,,,,,,,,530147.8536,180070.3456,Breathe London,No
+106,106,2450132,"Hoe Street, Waltham Forest",Ground level monitor,51.575508,-0.012874,https://www.breathelondon.org/,,,,,,,,,537798.2629,188164.1397,Breathe London,No
+107,107,BG1,Barking and Dagenham - Rush Green,Suburban,51.563752,0.177891,http://www.londonair.org.uk/london/asp/publicstats.asp?site=BG1,Barking and Dagenham,King's College London,NO2,,,SO2,,,551055.2384,187233.3746,LAQN network,
+108,108,BG2,Barking and Dagenham - Scrattons Farm,Suburban,51.529389,0.132857,http://www.londonair.org.uk/london/asp/publicstats.asp?site=BG2,Barking and Dagenham,King's College London,NO2,PM10,,,,,548045.5071,183320.2047,LAQN network,
+109,109,BN2,London Barnet Chalgrove School,Urban Background,51.591901,-0.205992,http://www.airqualityengland.co.uk/site/latest?site_id=BN2,Barnet,Ricardo-AEA,,,,,,,524372.1046,189641.1455,AQE network,
+110,110,BN1,Tally Ho,Kerbside,51.614675,-0.176607,http://www.airqualityengland.co.uk/site/latest?site_id=BN1,Barnet,Ricardo-AEA,,,,,,,526344.3437,192224.1038,AQE network,
+111,111,BX2,Bexley - Belvedere,Suburban,51.49061021,0.158914494,http://www.londonair.org.uk/london/asp/publicstats.asp?site=BX2,Bexley,King's College London,NO2,PM10,,,,,549980.0553,179061.0534,LAQN network,
+112,112,BX0,Bexley - Belvedere FDMS,Suburban,51.49061021,0.158914494,http://www.londonair.org.uk/london/asp/publicstats.asp?site=BX0,Bexley,King's College London,,PM10,,,,,549980.0553,179061.0534,LAQN network,
+113,113,BQ7,Bexley - Belvedere West,Urban Background,51.49464868,0.137279111,http://www.londonair.org.uk/london/asp/publicstats.asp?site=BQ7,Bexley,King's College London,NO2,PM10,O3,,,,548465.0547,179466.0516,LAQN network,
+114,114,BQ8,Bexley - Belvedere West FDMS,Urban Background,51.49464868,0.137279111,http://www.londonair.org.uk/london/asp/publicstats.asp?site=BQ8,Bexley,King's College London,,PM10,,,,,548465.0547,179466.0516,LAQN network,
+115,115,BX1,Bexley - Slade Green,Suburban,51.46598327,0.184877127,http://www.londonair.org.uk/london/asp/publicstats.asp?site=BX1,Bexley,King's College London,NO2,PM10,O3,SO2,,,551864.056,176376.0623,LAQN network,
+116,116,BX9,Bexley - Slade Green FDMS,Suburban,51.46598327,0.184877127,http://www.londonair.org.uk/london/asp/publicstats.asp?site=BX9,Bexley,King's College London,,,,,PM2.5,,551864.056,176376.0623,LAQN network,
+117,117,BT8,Brent - ARK Franklin Primary Academy,Roadside,51.53240546,-0.217718909,http://www.londonair.org.uk/london/asp/publicstats.asp?site=BT8,Brent,King's College London,NO2,PM10,,,,,523721.0457,183005.039,LAQN network,
+118,118,BT4,Brent - Ikea,Roadside,51.552476,-0.258089,http://www.londonair.org.uk/london/asp/publicstats.asp?site=BT4,Brent,King's College London,NO2,PM10,O3,,,,520867.9066,185169.5668,LAQN network,
+119,119,BT6,Brent - John Keble Primary School,Roadside,51.537799,-0.247793,http://www.londonair.org.uk/london/asp/publicstats.asp?site=BT6,Brent,King's College London,NO2,PM10,,,,,521620.7992,183554.4489,LAQN network,
+120,120,BT5,Brent - Neasden Lane,Industrial,51.552656,-0.248774,http://www.londonair.org.uk/london/asp/publicstats.asp?site=BT5,Brent,King's College London,NO2,PM10,,,,,521513.2155,185205.0037,LAQN network,
+121,121,BL0,Camden - Bloomsbury,Urban Background,51.522287,-0.125848,http://www.londonair.org.uk/london/asp/publicstats.asp?site=BL0,Camden,King's College London,NO2,PM10,O3,SO2,PM2.5,,530121.8117,182039.0487,LAQN network,
+122,122,CD9,Camden - Euston Road,Roadside,51.527975,-0.1287742,http://www.londonair.org.uk/london/asp/publicstats.asp?site=CD9,Camden,King's College London,NO2,PM10,,,PM2.5,,529902.6377,182666.3803,LAQN network,
+123,123,IM1,Camden - Holborn (Bee Midtown),Kerbside,51.51736751,-0.120194711,http://www.londonair.org.uk/london/asp/publicstats.asp?site=IM1,Camden,King's College London,NO2,,,,,,530528.0482,181502.044,LAQN network,
+124,124,CD1,Camden - Swiss Cottage,Kerbside,51.544219,-0.175284,http://www.londonair.org.uk/london/asp/publicstats.asp?site=CD1,Camden,King's College London,NO2,PM10,,,PM2.5,,526631.4711,184391.3076,LAQN network,
+125,125,CT4,City of London - Beech Street,Roadside,51.52022527,-0.096106047,http://www.londonair.org.uk/london/asp/publicstats.asp?site=CT4,City of London,King's College London,NO2,PM10,,,,,532191.0488,181863.0429,LAQN network,
+126,126,CT2,City of London - Farringdon Street,Kerbside,51.51452534,-0.104515626,http://www.londonair.org.uk/london/asp/publicstats.asp?site=CT2,City of London,King's College London,,,,,PM2.5,,531624.0486,181214.046,LAQN network,
+127,127,CT3,City of London - Sir John Cass School,Urban Background,51.51384718,-0.077765682,http://www.londonair.org.uk/london/asp/publicstats.asp?site=CT3,City of London,King's College London,NO2,PM10,,,PM2.5,,533482.0492,181187.0458,LAQN network,
+128,128,CT8,City of London - Upper Thames Street,Roadside,51.50954369,-0.087357198,http://www.londonair.org.uk/london/asp/publicstats.asp?site=CT8,City of London,King's College London,,PM10,,,,,532829.049,180691.0479,LAQN network,
+129,129,CT6,City of London - Walbrook Wharf,Roadside,51.510499,-0.091634,http://www.londonair.org.uk/london/asp/publicstats.asp?site=CT6,City of London,King's College London,NO2,,,,,,532529.5046,180789.5339,LAQN network,
+130,130,CR5,Croydon - Norbury,Kerbside,51.411349,-0.12311,http://www.londonair.org.uk/london/asp/publicstats.asp?site=CR5,Croydon,King's College London,NO2,,,,,,530627.9428,169707.3164,LAQN network,
+131,131,CR8,Croydon - Norbury Manor,Urban Background,51.410039,-0.127523,http://www.londonair.org.uk/london/asp/publicstats.asp?site=CR8,Croydon,King's College London,,,,,PM2.5,,530324.7798,169553.7919,LAQN network,
+132,132,CR9,Croydon - Park Lane,Roadside,51.37395306,-0.096763847,http://www.londonair.org.uk/london/asp/publicstats.asp?site=CR9,Croydon,King's College London,NO2,PM10,,,,,532568.0487,165596.101,LAQN network,
+133,133,CR7,Croydon - Purley Way A23,Roadside,51.36223057,-0.117604507,http://www.londonair.org.uk/london/asp/publicstats.asp?site=CR7,Croydon,King's College London,NO2,,,,,,531151.0482,164255.1067,LAQN network,
+134,134,EI3,Ealing - Acton Vale,Urban Background,51.50385279,-0.254668102,http://www.londonair.org.uk/london/asp/publicstats.asp?site=EI3,Ealing,King's College London,NO2,PM10,,,,,521234.0447,179768.0505,LAQN network,
+135,135,EA6,Ealing - Hanger Lane Gyratory,Roadside,51.53085,-0.292488,http://www.londonair.org.uk/london/asp/publicstats.asp?site=EA6,Ealing,King's College London,NO2,PM10,,,,,518539.2255,182708.39,LAQN network,
+136,136,EA8,Ealing - Horn Lane,Industrial,51.518948,-0.265617,http://www.londonair.org.uk/london/asp/publicstats.asp?site=EA8,Ealing,King's College London,NO2,PM10,,,,,520434.3921,181428.6571,LAQN network,
+137,137,EI8,Ealing - Horn Lane TEOM,Industrial,51.51891603,-0.265652052,http://www.londonair.org.uk/london/asp/publicstats.asp?site=EI8,Ealing,King's College London,,PM10,,,,,520432.0445,181425.0443,LAQN network,
+138,138,EI1,Ealing - Western Avenue,Roadside,51.52360782,-0.265502632,http://www.londonair.org.uk/london/asp/publicstats.asp?site=EI1,Ealing,King's College London,NO2,PM10,,,,,520430.0445,181947.043,LAQN network,
+139,139,EN5,Enfield - Bowes Primary School,Roadside,51.613865,-0.125338,http://www.londonair.org.uk/london/asp/publicstats.asp?site=EN5,Enfield,King's College London,NO2,PM10,,,,,529896.1207,192223.8332,LAQN network,
+140,140,EN1,Enfield - Bush Hill Park,Suburban,51.64503673,-0.066180066,http://www.londonair.org.uk/london/asp/publicstats.asp?site=EN1,Enfield,King's College London,NO2,,,,,,533900.0496,195796.9941,LAQN network,
+141,141,EN4,Enfield - Derby Road,Roadside,51.61486401,-0.050765836,http://www.londonair.org.uk/london/asp/publicstats.asp?site=EN4,Enfield,King's College London,NO2,,,SO2,,,535056.0029,192470.0008,LAQN network,
+142,142,EN7,Enfield - Prince of Wales School,Urban Background,51.66864335,-0.022007206,http://www.londonair.org.uk/london/asp/publicstats.asp?site=EN7,Enfield,King's College London,NO2,,,,,,536885.0507,198503.9844,LAQN network,
+143,143,GN0,Greenwich - A206 Burrage Grove,Roadside,51.490532,0.074003,http://www.londonair.org.uk/london/asp/publicstats.asp?site=GN0,Greenwich,King's College London,NO2,PM10,,,PM2.5,,544085.8785,178881.9223,LAQN network,
+144,144,GR7,Greenwich - Blackheath,Roadside,51.472504,-0.012381,http://www.londonair.org.uk/london/asp/publicstats.asp?site=GR7,Greenwich,King's College London,NO2,PM10,,,,,538143.5802,176710.8171,LAQN network,
+145,145,GR4,Greenwich - Eltham,Suburban,51.45258,0.070766,http://www.londonair.org.uk/london/asp/publicstats.asp?site=GR4,Greenwich,King's College London,NO2,PM10,O3,SO2,PM2.5,,543980.527,174655.3039,LAQN network,
+146,146,GB6,Greenwich - Falconwood,Roadside,51.4563,0.085606,http://www.londonair.org.uk/london/asp/publicstats.asp?site=GB6,Greenwich,King's College London,NO2,PM10,O3,,,,544999.7797,175098.2221,LAQN network,
+147,147,GB0,Greenwich - Falconwood FDMS,Roadside,51.4563,0.085606,http://www.londonair.org.uk/london/asp/publicstats.asp?site=GB0,Greenwich,King's College London,,,,,PM2.5,,544999.7797,175098.2221,LAQN network,
+148,148,GN4,Greenwich - Fiveways Sidcup Rd A20,Roadside,51.43466271,0.064222467,http://www.londonair.org.uk/london/asp/publicstats.asp?site=GN4,Greenwich,King's College London,NO2,PM10,,,,,543582.0528,172650.0766,LAQN network,
+149,149,GN6,Greenwich - John Harrison Way,Roadside,51.49377467,0.010779624,http://www.londonair.org.uk/london/asp/publicstats.asp?site=GN6,Greenwich,King's College London,NO2,PM10,,,PM2.5,,539687.0515,179120.0531,LAQN network,
+150,150,GN3,Greenwich - Plumstead High Street,Roadside,51.486957,0.095111,http://www.londonair.org.uk/london/asp/publicstats.asp?site=GN3,Greenwich,King's College London,NO2,PM10,O3,,PM2.5,,545562.5504,178526.1121,LAQN network,
+151,151,GN5,Greenwich - Trafalgar Road (Hoskins St),Roadside,51.48390725,0.000407397,http://www.londonair.org.uk/london/asp/publicstats.asp?site=GN5,Greenwich,King's College London,NO2,PM10,,,,,538997.0513,178003.0566,LAQN network,
+152,152,GR9,Greenwich - Westhorne Avenue,Roadside,51.456357,0.040725,http://www.londonair.org.uk/london/asp/publicstats.asp?site=GR9,Greenwich,King's College London,NO2,PM10,O3,,PM2.5,,541881.6701,175016.7214,LAQN network,
+153,153,GR8,Greenwich - Woolwich Flyover,Roadside,51.486884,0.017901,http://www.londonair.org.uk/london/asp/publicstats.asp?site=GR8,Greenwich,King's College London,NO2,PM10,O3,,,,540202.5021,178367.4074,LAQN network,
+154,154,HK6,Hackney - Old Street,Roadside,51.526454,-0.08491,http://www.londonair.org.uk/london/asp/publicstats.asp?site=HK6,Hackney,King's College London,NO2,PM10,O3,,,,532949.6502,182575.9657,LAQN network,
+155,155,HF4,Shepherd's Bush,Roadside,51.504563,-0.22467,http://www.airqualityengland.co.uk/site/latest?site_id=HF4,Hammersmith and Fulham,Ricardo-AEA,NO2,PM10,,,,,523314.0448,179897.0984,AQE network,
+156,156,HG4,Haringey  - Priory Park South,Urban Background,51.5839769,-0.125400278,http://www.londonair.org.uk/london/asp/publicstats.asp?site=HG4,Haringey,King's College London,NO2,,O3,,,,529977.0481,188900.0181,LAQN network,
+157,157,HG1,Haringey - Haringey Town Hall,Roadside,51.599302,-0.068218,http://www.londonair.org.uk/london/asp/publicstats.asp?site=HG1,Haringey,King's College London,NO2,,,,,,533893.5124,190707.3557,LAQN network,
+158,158,HR2,Harrow - Pinner Road,Roadside,51.588417,-0.362989,http://www.londonair.org.uk/london/asp/publicstats.asp?site=HR2,Harrow,King's College London,NO2,PM10,,,,,513505.9081,188998.5135,LAQN network,
+159,159,HR1,Harrow - Stanmore,Urban Background,51.617327,-0.298775,http://www.londonair.org.uk/london/asp/publicstats.asp?site=HR1,Harrow,King's College London,NO2,PM10,,,,,517879.4257,192315.072,LAQN network,
+160,160,HV1,Havering - Rainham,Roadside,51.52078746,0.205460706,http://www.londonair.org.uk/london/asp/publicstats.asp?site=HV1,Havering,King's College London,NO2,PM10,,,PM2.5,,553110.0565,182513.041,LAQN network,
+161,161,HV3,Havering - Romford,Roadside,51.572976,0.179079,http://www.londonair.org.uk/london/asp/publicstats.asp?site=HV3,Havering,King's College London,NO2,PM10,,,,,551107.0055,188261.5335,LAQN network,
+162,162,T55,Heathrow Green Gates,Airport,51.481478,-0.486675,http://www.airqualityengland.co.uk/site/latest?site_id=T55,Hillingdon,Ricardo-AEA,NO2,PM10,,,PM2.5,,505183.5882,176921.3946,AQE network,
+163,163,LHR2,Heathrow LHR2,Airport,51.479167,-0.440556,http://www.airqualityengland.co.uk/site/latest?site_id=LHR2,Hillingdon,Ricardo-AEA,NO2,PM10,,,PM2.5,CO,508391.4418,176731.5859,AQE network,
+164,164,LH0,Hillingdon - Harlington,Urban Background,51.48878,-0.441627,http://www.londonair.org.uk/london/asp/publicstats.asp?site=LH0,Hillingdon,King's College London,NO2,PM10,O3,,PM2.5,,508294.3189,177799.0365,LAQN network,
+165,165,HI0,Hillingdon - Keats Way,Suburban,51.496309,-0.460826,http://www.londonair.org.uk/london/asp/publicstats.asp?site=HI0,Hillingdon,King's College London,NO2,,O3,,,,506943.8042,178608.1226,LAQN network,
+166,166,HI1,Hillingdon 1 - South Ruislip,Roadside,51.55226,-0.40278,http://www.airqualityengland.co.uk/site/latest?site_id=HI1,Hillingdon,Ricardo-AEA,NO2,PM10,,,,,510837.2383,184916.5936,AQE network,
+167,167,SIPS,Hillingdon Sipson,Urban Background,51.484384,-0.455695,http://www.airqualityengland.co.uk/site/latest?site_id=SIPS,Hillingdon,Ricardo-AEA,NO2,,,,,,507327.9429,177289.4751,AQE network,
+168,168,HIL1,London Hillingdon Harmondsworth,Urban Background,51.487989,-0.480984,http://www.airqualityengland.co.uk/site/latest?site_id=HIL1,Hillingdon,Ricardo-AEA,NO2,PM10,,,,,505563.736,177653.6492,AQE network,
+169,169,HIL4,London Hillingdon Harmondsworth Os,Urban Background,51.487534,-0.479451,http://www.airqualityengland.co.uk/site/latest?site_id=HIL4,Hillingdon,Ricardo-AEA,,PM10,,,PM2.5,,505671.2192,177605.2589,AQE network,
+170,170,HIL5,London Hillingdon Hayes,Roadside,51.498167,-0.412333,http://www.airqualityengland.co.uk/site/latest?site_id=HIL5,Hillingdon,Ricardo-AEA,NO2,PM10,,,,,510305.4454,178886.6298,AQE network,
+171,171,HI3,London Hillingdon Oxford Avenue,Urban Centre,51.48113,-0.42376,http://www.airqualityengland.co.uk/site/latest?site_id=HI3,Hillingdon,Ricardo-AEA,NO2,PM10,,,,,509553.0673,176974.8567,AQE network,
+172,172,HS5,Hounslow Brentford,Roadside,51.489398,-0.310081,http://www.airqualityengland.co.uk/site/latest?site_id=HS5,Hounslow,Ricardo-AEA,NO2,PM10,,,PM2.5,,517425.3899,178070.3519,AQE network,
+173,173,HS4,Hounslow Chiswick,Urban Background,51.492507,-0.257252,http://www.airqualityengland.co.uk/site/latest?site_id=HS4,Hounslow,Ricardo-AEA,NO2,PM10,,,PM2.5,,521084.7557,178502.0687,AQE network,
+174,174,HS2,Hounslow Cranford,Suburban,51.482982,-0.411895,http://www.airqualityengland.co.uk/site/latest?site_id=HS2,Hounslow,Ricardo-AEA,NO2,PM10,O3,SO2,,,510372.4767,177198.6131,AQE network,
+175,175,HS9,Hounslow Feltham,Urban Background,51.447388,-0.408733,http://www.airqualityengland.co.uk/site/latest?site_id=HS9,Hounslow,Ricardo-AEA,NO2,PM10,,,,,510678.0289,173245.0999,AQE network,
+176,176,HS8,Hounslow Gunnersbury,Roadside,51.500676,-0.284383,http://www.airqualityengland.co.uk/site/latest?site_id=HS8,Hounslow,Ricardo-AEA,NO2,PM10,,,,,519180.0565,179366.0192,AQE network,
+177,177,HS7,Hounslow Hatton Cross,Urban Background,51.463402,-0.427525,http://www.airqualityengland.co.uk/site/latest?site_id=HS7,Hounslow,Ricardo-AEA,NO2,PM10,,,,,509333.9661,174997.7629,AQE network,
+178,178,HS6,Hounslow Heston,Roadside,51.479129,-0.36476,http://www.airqualityengland.co.uk/site/latest?site_id=HS6,Hounslow,Ricardo-AEA,NO2,PM10,,,,CO,513654.8403,176842.1727,AQE network,
+179,179,IS6,Islington - Arsenal,Urban Background,51.557895,-0.106989,http://www.londonair.org.uk/london/asp/publicstats.asp?site=IS6,Islington,King's College London,NO2,PM10,,,,,531327.6419,186032.4667,LAQN network,
+180,180,IS2,Islington - Holloway Road,Roadside,51.555378,-0.116146,http://www.londonair.org.uk/london/asp/publicstats.asp?site=IS2,Islington,King's College London,NO2,PM10,,,,,530700.1039,185736.1764,LAQN network,
+181,181,KC4,Chelsea,Roadside,51.487437,-0.168397,http://www.airqualityengland.co.uk/site/latest?site_id=KC4,Kensington and Chelsea,Ricardo-AEA,NO2,,,,,,527267.0513,178088.8486,AQE network,
+182,182,KC2,Cromwell Road,Roadside,51.495504,-0.178809,http://www.airqualityengland.co.uk/site/latest?site_id=KC2,Kensington and Chelsea,Ricardo-AEA,NO2,PM10,,,PM2.5,,526521.871,178967.8968,AQE network,
+183,183,KC5,Earls Court Road,Roadside,51.490198,-0.190863,http://www.airqualityengland.co.uk/site/latest?site_id=KC5,Kensington and Chelsea,Ricardo-AEA,NO2,PM10,,,,,525699.7389,178357.1005,AQE network,
+184,184,KC1,Kensington and Chelsea - North Ken,Urban Background,51.52104675,-0.21349214,http://www.londonair.org.uk/london/asp/publicstats.asp?site=KC1,Kensington and Chelsea,King's College London,NO2,,O3,SO2,PM2.5,,524045.0458,181749.0439,LAQN network,
+185,185,KC3,Knightsbridge,Roadside,51.49914,-0.164338,http://www.airqualityengland.co.uk/site/latest?site_id=KC3,Kensington and Chelsea,Ricardo-AEA,NO2,,,,,,527516.2169,179397.3234,AQE network,
+186,186,KT5,Kingston Upon Thames - Cromwell Road,Roadside,51.412308,-0.29658478,http://www.londonair.org.uk/london/asp/publicstats.asp?site=KT5,Kingston,King's College London,NO2,PM10,,,,,518561.7062,169519.2929,LAQN network,
+187,187,KT6,Kingston Upon Thames - Kingston Vale,Roadside,51.43550066,-0.257029894,http://www.londonair.org.uk/london/asp/publicstats.asp?site=KT6,Kingston,King's College London,NO2,PM10,,,,,521251.0447,172163.0774,LAQN network,
+188,188,KT4,Kingston Upon Thames - Tolworth Broadway,Roadside,51.379312,-0.281259,http://www.londonair.org.uk/london/asp/publicstats.asp?site=KT4,Kingston,King's College London,NO2,PM10,,,,,519713.5057,165874.9017,LAQN network,
+189,189,LB5,Lambeth - Bondway Interchange,Industrial,51.48548677,-0.124545235,http://www.londonair.org.uk/london/asp/publicstats.asp?site=LB5,Lambeth,King's College London,NO2,PM10,,SO2,,,530317.0481,177949.0568,LAQN network,
+190,190,LB4,Lambeth - Brixton Road,Kerbside,51.46411354,-0.114581027,http://www.londonair.org.uk/london/asp/publicstats.asp?site=LB4,Lambeth,King's College London,NO2,PM10,,,,,531070.0483,175590.0655,LAQN network,
+191,191,LB6,Lambeth - Streatham Green,Urban Background,51.42821314,-0.131868639,http://www.londonair.org.uk/london/asp/publicstats.asp?site=LB6,Lambeth,King's College London,NO2,PM10,,,,,529971.0478,171567.0797,LAQN network,
+192,192,LW1,Lewisham - Catford,Urban Background,51.445468,-0.020266,http://www.londonair.org.uk/london/asp/publicstats.asp?site=LW1,Lewisham,King's College London,NO2,,,,,,537677.2613,173689.5508,LAQN network,
+193,193,HP1,Lewisham - Honor Oak Park,Urban Background,51.4496729,-0.037415359,http://www.londonair.org.uk/london/asp/publicstats.asp?site=HP1,Lewisham,King's College London,NO2,PM10,O3,,PM2.5,,536473.0503,174125.0713,LAQN network,
+194,194,LW4,Lewisham - Loampit Vale,Roadside,51.46469106,-0.016068243,http://www.londonair.org.uk/london/asp/publicstats.asp?site=LW4,Lewisham,King's College London,NO2,PM10,,,,,537911.0508,175835.0646,LAQN network,
+195,195,LW3,Lewisham - Mercury Way,Industrial,51.48114122,-0.045670857,http://www.londonair.org.uk/london/asp/publicstats.asp?site=LW3,Lewisham,King's College London,,PM10,,,,,535806.05,177609.0586,LAQN network,
+196,196,LW2,Lewisham - New Cross,Roadside,51.474954,-0.039641,http://www.londonair.org.uk/london/asp/publicstats.asp?site=LW2,Lewisham,King's College London,NO2,PM10,,,PM2.5,,536243.1515,176932.223,LAQN network,
+197,197,ME2,Merton - Merton Road,Roadside,51.41613848,-0.192230805,http://www.londonair.org.uk/london/asp/publicstats.asp?site=ME2,Merton,King's College London,,PM10,,,,,525808.0463,170119.0853,LAQN network,
+198,198,ME9,Merton - Morden Civic Centre 2,Roadside,51.40162,-0.19589212,http://www.londonair.org.uk/london/asp/publicstats.asp?site=ME9,Merton,King's College London,NO2,,,,,,525593.2005,168498.3176,LAQN network,
+199,199,NM2,Cam Road,Roadside,51.537598,-0.002138,http://www.londonair.org.uk/london/asp/publicstats.asp?site=NM2,Newham,King's College London,NO2,PM10,O3,SO2,,CO,538657.3284,183968.7293,LAQN network,
+200,200,NM3,Wren Close,Urban Background,51.514727,0.014554,http://www.londonair.org.uk/london/asp/publicstats.asp?site=NM3,Newham,King's College London,NO2,PM10,O3,SO2,,CO,539884.9146,181457.1825,LAQN network,
+201,201,RB4,Redbridge - Gardner Close,Roadside,51.57661,0.030858,http://www.londonair.org.uk/london/asp/publicstats.asp?site=RB4,Redbridge,King's College London,NO2,PM10,,,,,540825.0648,188369.9461,LAQN network,
+202,202,RB7,Redbridge - Ley Street,Urban Background,51.56948433,0.082907475,http://www.londonair.org.uk/london/asp/publicstats.asp?site=RB7,Redbridge,King's College London,NO2,PM10,O3,,PM2.5,,544454.0534,187679.0224,LAQN network,
+203,203,TD5,London Teddington Bushy Park,Suburban,51.42525604,-0.345608291,http://www.londonair.org.uk/london/asp/publicstats.asp?site=TD5,Richmond,King's College London,,,,,PM2.5,,515120.0424,170881.0829,LAQN network,
+204,204,RI2,Richmond Upon Thames - Barnes Wetlands,Suburban,51.476168,-0.230427,http://www.londonair.org.uk/london/asp/publicstats.asp?site=RI2,Richmond,King's College London,NO2,PM10,O3,,,,522990.8317,176729.7703,LAQN network,
+205,205,RI1,Richmond Upon Thames - Castelu,Roadside,51.480189,-0.237335,http://www.londonair.org.uk/london/asp/publicstats.asp?site=RI1,Richmond,King's College London,NO2,PM10,,,,,522500.351,177165.3528,LAQN network,
+206,206,RHG,Richmond Upon Thames - Chertsey Road,Roadside,51.45314225,-0.341218138,http://www.londonair.org.uk/london/asp/publicstats.asp?site=RHG,Richmond,King's College London,NO2,PM10,,,,,515355.0425,173989.0712,LAQN network,
+207,207,SK5,Southwark - A2 Old Kent Road,Roadside,51.48049949,-0.059552893,http://www.londonair.org.uk/london/asp/publicstats.asp?site=SK5,Southwark,King's College London,NO2,PM10,,,,,534844.0497,177512.0584,LAQN network,
+208,208,SK6,Southwark - Elephant and Castle,Urban Background,51.4931557,-0.101527038,http://www.londonair.org.uk/london/asp/publicstats.asp?site=SK6,Southwark,King's College London,NO2,PM10,O3,,,,531893.0487,178843.0535,LAQN network,
+209,209,ST8,Sutton - Beddington Lane,Industrial,51.38356523,-0.136417861,http://www.londonair.org.uk/london/asp/publicstats.asp?site=ST8,Sutton,King's College London,NO2,PM10,,,,,529781.0478,166594.0981,LAQN network,
+210,210,ST5,Sutton - Beddington Lane north,Industrial,51.3892869,-0.141661525,http://www.londonair.org.uk/london/asp/publicstats.asp?site=ST5,Sutton,King's College London,NO2,PM10,,,PM2.5,,529400.0476,167221.0951,LAQN network,
+211,211,ST4,Sutton - Wallington,Kerbside,51.35865961,-0.149723947,http://www.londonair.org.uk/london/asp/publicstats.asp?site=ST4,Sutton,King's College London,NO2,PM10,,,,,528925.0474,163801.1076,LAQN network,
+212,212,ST6,Sutton - Worcester Park,Kerbside,51.377923,-0.240414,http://www.londonair.org.uk/london/asp/publicstats.asp?site=ST6,Sutton,King's College London,NO2,PM10,,,,,522559.6531,165787.861,LAQN network,
+213,213,TH004,Tower Hamlets - Blackwall,Roadside,51.515046,-0.008418,http://www.airqualityengland.co.uk/site/latest?site_id=TH004,Tower Hamlets,Ricardo-AEA,NO2,PM10,O3,,PM2.5,,538290.0857,181449.027,AQE network,
+214,214,TH4,Tower Hamlets - Blackwall,Roadside,51.51504617,-0.008418493,http://www.londonair.org.uk/london/asp/publicstats.asp?site=TH4,Tower Hamlets,King's College London,NO2,PM10,O3,,PM2.5,,538290.051,181449.045,LAQN network,
+215,215,TH2,Tower Hamlets - Mile End Road,Roadside,51.52252949,-0.042155099,http://www.londonair.org.uk/london/asp/publicstats.asp?site=TH2,Tower Hamlets,King's College London,NO2,,,,,,535927.0502,182218.0424,LAQN network,
+216,216,TH001,Tower Hamlets - Millwall Park,Urban Background,51.489134,-0.012977,http://www.airqualityengland.co.uk/site/latest?site_id=TH001,Tower Hamlets,Ricardo-AEA,NO2,PM10,O3,,,,538051.9989,178558.9711,AQE network,
+217,217,TH002,Tower Hamlets - Victoria Park,Urban Background,51.540519,-0.033307,http://www.airqualityengland.co.uk/site/latest?site_id=TH002,Tower Hamlets,Ricardo-AEA,NO2,PM10,,SO2,,,536487.0788,184234.9809,AQE network,
+218,218,WL4,Waltham Crooked Billet,Kerbside,51.601728,-0.016442,http://www.airqualityengland.co.uk/site/latest?site_id=WL4,Waltham Forest,Ricardo-AEA,NO2,PM10,,,,,537471.9184,191073.1731,AQE network,
+219,219,WL1,Waltham Forest Dawlish Rd,Urban Background,51.562376,-0.004898,http://www.airqualityengland.co.uk/site/latest?site_id=WL1,Waltham Forest,Ricardo-AEA,NO2,PM10,,,,,538390.7682,186718.8769,AQE network,
+220,220,WL5,Waltham Forest Leyton,Urban Background,51.556239,-0.013628,http://www.airqualityengland.co.uk/site/latest?site_id=WL5,Waltham Forest,Ricardo-AEA,NO2,PM10,,,,,537804.2237,186019.9547,AQE network,
+221,221,WAA,Wandsworth - Battersea,Roadside,51.47943953,-0.141786954,http://www.londonair.org.uk/london/asp/publicstats.asp?site=WAA,Wandsworth,King's College London,NO2,PM10,,,,,529137.0476,177246.0599,LAQN network,
+222,222,WAC,Wandsworth - Lavender Hill (Clapham Jct),Roadside,51.46369036,-0.166713486,http://www.londonair.org.uk/london/asp/publicstats.asp?site=WAC,Wandsworth,King's College London,NO2,PM10,,,,,527450.047,175451.0665,LAQN network,
+223,223,WA9,Wandsworth - Putney,Urban Background,51.46503251,-0.215824581,http://www.londonair.org.uk/london/asp/publicstats.asp?site=WA9,Wandsworth,King's College London,NO2,PM10,,,,,524035.0457,175516.0664,LAQN network,
+224,224,WA7,Wandsworth - Putney High Street,Kerbside,51.463429,-0.215871,http://www.londonair.org.uk/london/asp/publicstats.asp?site=WA7,Wandsworth,King's College London,NO2,PM10,,,,,524036.1655,175337.6712,LAQN network,
+225,225,WA8,Wandsworth - Putney High Street Facade,Roadside,51.4637206,-0.215890144,http://www.londonair.org.uk/london/asp/publicstats.asp?site=WA8,Wandsworth,King's College London,NO2,,,,,,524034.0457,175370.0659,LAQN network,
+226,226,WAB,Wandsworth - Tooting High Street,Roadside,51.429331,-0.166524,http://www.londonair.org.uk/london/asp/publicstats.asp?site=WAB,Wandsworth,King's College London,NO2,PM10,,,,,527558.8443,171630.5348,LAQN network,
+227,227,WA2,Wandsworth - Wandsworth Town Hall,Urban Background,51.456962,-0.191074,http://www.londonair.org.uk/london/asp/publicstats.asp?site=WA2,Wandsworth,King's College London,NO2,,O3,,,,525776.3947,174660.7716,LAQN network,
+228,228,WMA,Westminster - Buckingham Palace Road,Roadside,51.49323279,-0.147391757,http://www.londonair.org.uk/london/asp/publicstats.asp?site=WMA,Westminster,King's College London,NO2,,,,,,528709.0475,178770.0541,LAQN network,
+229,229,WMC,Westminster - Cavendish Square,Roadside,51.51680165,-0.145657269,http://www.londonair.org.uk/london/asp/publicstats.asp?site=WMC,Westminster,King's College London,NO2,PM10,,,,,528763.0475,181394.0455,LAQN network,
+230,230,WM5,Westminster - Covent Garden,Urban Background,51.51197698,-0.121627203,http://www.londonair.org.uk/london/asp/publicstats.asp?site=WM5,Westminster,King's College London,NO2,,,,,,530444.0482,180900.0464,LAQN network,
+231,231,WM0,Westminster - Horseferry Road,Urban Background,51.494681,-0.131938,http://www.londonair.org.uk/london/asp/publicstats.asp?site=WM0,Westminster,King's College London,NO2,PM10,,,,,529777.6891,178958.3618,LAQN network,
+232,232,MY1,Westminster - Marylebone Road,Kerbside,51.52254,-0.15459,http://www.londonair.org.uk/london/asp/publicstats.asp?site=MY1,Westminster,King's College London,NO2,PM10,O3,SO2,,,528127.192,182016.5063,LAQN network,
+233,233,MY7,Westminster - Marylebone Road FDMS,Kerbside,51.52254,-0.15459,http://www.londonair.org.uk/london/asp/publicstats.asp?site=MY7,Westminster,King's College London,,PM10,,,PM2.5,,528127.192,182016.5063,LAQN network,
+234,234,WM6,Westminster - Oxford Street,Kerbside,51.51392874,-0.152792702,http://www.londonair.org.uk/london/asp/publicstats.asp?site=WM6,Westminster,King's College London,NO2,PM10,,,,,528276.0473,181062.0461,LAQN network,
+235,235,WMB,Westminster - Oxford Street East,Roadside,51.516066,-0.13516388,http://www.londonair.org.uk/london/asp/publicstats.asp?site=WMB,Westminster,King's College London,NO2,PM10,,,,,529493.1745,181330.739,LAQN network,
+236,236,NB1,Westminster - Strand (Northbank BID),Roadside,51.51197012,-0.116713104,http://www.londonair.org.uk/london/asp/publicstats.asp?site=NB1,Westminster,King's College London,NO2,,,,,,530785.0482,180908.0468,LAQN network,
+237,237,TL4,Greenwich - Tunnel Avenue TFL,Roadside,51.495057,0.004107467,http://www.londonair.org.uk/london/asp/publicdetails.asp?region=0&site=TL4,Greenwich,King's College London,NO2,,,,,,539220,179250,LAQN network,
+238,238,TL5,Newham - Hoola Tower TFL,Roadside,51.508198,0.015002152,http://www.londonair.org.uk/london/asp/publicdetails.asp?region=0&site=TL5,Newham,King's College London,NO2,,,,,,539936,180732,LAQN network,
+239,239,TL6,Newham - Britannia Gate TFL,Roadside,51.503858,0.020574415,http://www.londonair.org.uk/london/asp/publicdetails.asp?region=0&site=TL6,Newham,King's College London,NO2,,,,,,540336,180260,LAQN network,
